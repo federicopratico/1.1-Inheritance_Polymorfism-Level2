@@ -45,7 +45,7 @@ This repository contains a collection of Java exercises designed to reinforce fu
     ```
     or with SSH
     ```bash
-    git clone git@github.com:federicopratico/1.1-Inheritance_Polymorfism-Level2.git
+    git clone git@github.com:federicopratico/1.1-Inheritance_Polymorphism-Level2.git
     ```
     
 3.  **Navigate to the project directory:**

@@ -35,7 +35,7 @@ This repository contains a collection of Java exercises designed to reinforce fu
 
 ## 📋 Requirements
 * **Java SE Development Kit (JDK) 17** or higher installed.
-* A Java-compatible IDE or a terminal with access to `javac` and `java` commands.
+* A Java-compatible IDE.
 * Basic understanding of Java syntax, classes, and methods.
 
 ## 🛠️ Install
@@ -50,7 +50,7 @@ This repository contains a collection of Java exercises designed to reinforce fu
     
 3.  **Navigate to the project directory:**
     ```bash
-    cd Java-OOP-Exercises
+    cd 1.1-Inheritance_Polymorfism-Level2
     ```
 4.  **Open in IDE:**
     Open the folder in IntelliJ IDEA (or your preferred IDE) and let it index the source files.

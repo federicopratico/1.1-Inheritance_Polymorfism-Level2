@@ -41,7 +41,7 @@ This repository contains a collection of Java exercises designed to reinforce fu
 ## 🛠️ Install
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/Java-OOP-Exercises.git](https://github.com/your-username/Java-OOP-Exercises.git)
+    git clone https://github.com/federicopratico/1.1-Inheritance_Polymorphism-Level2.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
@@ -51,17 +51,7 @@ This repository contains a collection of Java exercises designed to reinforce fu
     Open the folder in IntelliJ IDEA (or your preferred IDE) and let it index the source files.
 
 ## 🚀 Execute
-Since these are modular exercises, each exercise usually has its own `Main` class or entry point.
-
-1.  **Compile the source files:**
-    ```bash
-    javac src/main/java/n1exercise1/*.java
-    ```
-2.  **Run the specific exercise (Example):**
-    ```bash
-    java src.main.java.n1exercise1.Main
-    ```
-    *(Note: Adjust the package path according to the specific folder structure you have implemented).*
+This project is designed to be run directly inside a Java IDE (IntelliJ IDEA, Eclipse, or VS Code).
 
 ## 🤝 Contributions
 Contributions are welcome! If you want to add new exercises or improve existing solutions:

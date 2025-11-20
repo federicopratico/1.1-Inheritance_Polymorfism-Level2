@@ -35,7 +35,7 @@ This repository contains a collection of Java exercises designed to reinforce fu
 
 ## 📋 Requirements
 * **Java SE Development Kit (JDK) 17** or higher installed.
-* A Java-compatible IDE.
+* A Java-compatible IDE (IntelliJ IDEA / Eclipse / VS Code).
 * Basic understanding of Java syntax, classes, and methods.
 
 ## 🛠️ Install
